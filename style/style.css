@@ -5,6 +5,13 @@ body {
   font-family: 'Oswald', sans-serif;
 }
 
+.container {
+  margin: 0 15%;
+  height: 100%;
+  padding: 50px;
+  background-color: #1874c9;
+}
+
 .nav {
   padding-top: 50px;
   background-color: #0a3155;
